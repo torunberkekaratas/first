@@ -1,0 +1,1 @@
+alert("berke kuzi kral");
